@@ -1,0 +1,22 @@
+{
+  "name": "devplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maymc/DevPlayGround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maymc/DevPlayGround/issues"
+  },
+  "homepage": "https://github.com/maymc/DevPlayGround#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
